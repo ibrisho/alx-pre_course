@@ -1,1 +1,1 @@
-this repo is about git
+This Repo is about GitHub and Git usage
